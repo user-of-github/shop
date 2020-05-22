@@ -1,0 +1,43 @@
+[
+{
+    "title": "Мобильные телефоны",
+    "img": "./img/categoryMobile.png",
+    "linkdb": "mobile.json",
+    "type":"mobile"
+},
+{
+    "title": "Ноутбуки",
+    "img": "./img/categoryLaptop.png",
+    "linkdb": "laptop.json",
+    "type":"laptop"
+},
+{
+    "title": "Моноблоки",
+    "img": "./img/categoryStudio.jpeg",
+    "linkdb": "monoblock.json",
+    "type":"monoblock"
+},
+{
+    "title": "Планшеты",
+    "img": "./img/categoryTablet.jpeg",
+    "linkdb": "tablet.json",
+    "type":"tablet"
+},
+{
+    "title": "Телевизоры",
+    "img": "./img/categoryTv.png",
+    "linkdb": "television.json",
+    "type":"television"
+},
+{
+    "title": "Фотоаппараты",
+    "img": "./img/categoryPhoto.png",
+    "linkdb": "photo.json",
+    "type":"photo"
+},
+{
+    "title": "Умные часы и браслеты",
+    "img": "./img/categoryWatch.png",
+    "linkdb": "watch.json",
+    "type":"watch"
+}]

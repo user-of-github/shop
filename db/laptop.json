@@ -1,0 +1,71 @@
+[
+{
+    "title": "Acer Swift 1",
+    "price": 998,
+    "img": "./img/catalog/laptop/swift1.jpg",
+    "id": "vq4c4wq",
+    "description":"13.3'' 1920 x 1080 IPS, Intel Pentium N4200 1100 МГц, 4 ГБ, SSD 128 ГБ, граф. адаптер: встроенный, Windows 10, цвет крышки серебристый"
+},
+{
+    "title": "Asus VivoBook 14",
+    "price": 1299,
+    "img": "./img/catalog/laptop/vivobook14.jpg",
+    "id": "cqwe3",
+    "description":"14.0'' 1920 x 1080 TN+Film, Intel Core i3 8145U 2100 МГц, 4 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, Windows 10, цвет крышки серебристый"
+},
+{
+    "title": "Xiaomi RedmiBook 14",
+    "price": 1628,
+    "img": "./img/catalog/laptop/redmibook14.jpg",
+    "id": "43RF",
+    "description":"14.0'' 1920 x 1080 IPS, Intel Core i3 8145U 2100 МГц, 4 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, Windows 10, цвет крышки серебристый"
+},
+{
+    "title": "HP Pavilion 13",
+    "price": 1676,
+    "img": "./img/catalog/laptop/pavilion13.jpeg",
+    "id": "324cf",
+    "description":"13.3'' 1920 x 1080 IPS, Intel Core i3 8145U 2100 МГц, 4 ГБ, SSD 128 ГБ, граф. адаптер: встроенный, Windows 10, цвет крышки розовый"
+},
+{
+    "title": "MSI P65 Creator",
+    "price": 12143,
+    "img": "./img/catalog/laptop/creatorP65.jpg",
+    "id": "m67aZ",
+    "description":"15.6'' 3840 x 2160 IPS, Intel Core i9 9880H 2300 МГц, 32 ГБ, SSD 2048 ГБ, граф. адаптер: NVIDIA GeForce RTX 2080 8 ГБ, Windows 10, цвет крышки серебристый"
+},
+{
+    "title": "Acer Predator Triton 900",
+    "price": 9999,
+    "img": "./img/catalog/laptop/predatorTriton900.jpg",
+    "id": "tuoloi65",
+    "description":"17.3'' 3840 x 2160 IPS, сенсорный, Intel Core i7 9750H 2600 МГц, 32 ГБ, SSD 1024 ГБ, граф. адаптер: NVIDIA GeForce RTX 2080 8 ГБ, Windows 10 Pro, цвет крышки черный"
+},
+{
+    "title": "Apple MacBook Air 13 2020",
+    "price": 3355,
+    "img": "./img/catalog/laptop/macbookAir13.jpg",
+    "id": "345tb35e",
+    "description":"13.3'' 2560 x 1600 IPS, Intel Core i3 1000G4 1100 МГц, 8 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, Mac OS, цвет крышки серый"
+},
+{
+    "title": "Microsoft Surface Laptop 2",
+    "price": 3499,
+    "img": "./img/catalog/laptop/surfaceLaptop2.jpg",
+    "id": "qw4b5tf",
+    "description":"13.5'' 2256 x 1504 IPS, сенсорный, Intel Core i7 8650U 1900 МГц, 8 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, Windows 10, цвет крышки серебристый"
+},
+{
+    "title": "Lenovo Legion",
+    "price": 2650,
+    "img": "./img/catalog/laptop/legion.jpg",
+    "id": "qdbju66",
+    "description":"15.6'' 1920 x 1080 IPS, Intel Core i7 9750H 2600 МГц, 16 ГБ, SSD 256 ГБ, граф. адаптер: NVIDIA GeForce GTX 1650 4 ГБ, Windows 10, цвет крышки черный"
+},
+{
+    "title": "ASUS ZenBook 14",
+    "price": 1744,
+    "img": "./img/catalog/laptop/zenbook14.jpg",
+    "id": "w6yunwr",
+    "description":"14.0'' 1920 x 1080 IPS, Intel Core i3 10110U 2100 МГц, 4 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, без ОС, цвет крышки голубой"
+}]

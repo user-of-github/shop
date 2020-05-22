@@ -1,0 +1,64 @@
+[
+{
+    "title": "HONOR MagicWatch 2",
+    "price": 439,
+    "img": "./img/catalog/watch/MagicWatch2.jpg",
+    "id":"hhikhuiou",
+    "description":"часы-компаньон, поддержка Android/iOS, экран AMOLED 1.39'' (454x454, сенсорный), шагомер, пульсометр, время работы: 2 недели"
+},
+{
+    "title": "Xiaomi Mi Smart Band 4",
+    "price": 80,
+    "img": "./img/catalog/watch/MiSmartBand4.jpg",
+    "id":"e5ye5e5ee",
+    "description":"фитнес-браслет, поддержка Android/iOS, экран AMOLED 0.95'' (240x120, сенсорный), шагомер, пульсометр, время работы: 2 недели 6 суток"
+},
+{
+    "title": "HONOR Band 5",
+    "price": 86,
+    "img": "./img/catalog/watch/HONORBand5.jpg",
+    "id":"ererererr",
+    "description":"фитнес-браслет, поддержка Android/iOS, экран AMOLED 0.95'' (240x120, сенсорный), шагомер, пульсометр, время работы: 2 недели"
+},
+{
+    "title": "Samsung Galaxy Watch Active 2",
+    "price": 748,
+    "img": "./img/catalog/watch/Galaxy Watch Active 2.jpg",
+    "id":"pppppju",
+    "description":"фитнес-часы, поддержка Android/iOS, экран AMOLED 1.4'' (360x360, сенсорный), шагомер, пульсометр, время работы: 5 суток 11 часов"
+},
+{
+    "title": "Apple Watch Series 5 LTE",
+    "price": 2450,
+    "img": "./img/catalog/watch/WatchSeries5LTE.jpg",
+    "id":"qwertyuiop",
+    "description":"часы-телефон, поддержка iOS, экран AMOLED 1.57'' (324x394, сенсорный), шагомер, пульсометр, время работы: 18 часов"
+},
+{
+    "title": "Xiaomi Mi Band 2",
+    "price": 39,
+    "img": "./img/catalog/watch/MiBand2.jpg",
+    "id":"asdfghjk",
+    "description":"фитнес-браслет, поддержка Android/iOS, шагомер, пульсометр"
+},
+{
+    "title": "Xiaomi Mi Band 3",
+    "price": 58,
+    "img": "./img/catalog/watch/MiBand3.jpg",
+    "id":"zxcvbnm",
+    "description":"фитнес-браслет, поддержка Android/iOS, экран OLED 0.79'' (80x128, сенсорный), шагомер, пульсометр, время работы: 2 недели 6 суток"
+},
+{
+    "title": "Samsung Gear S3 frontier",
+    "price": 599,
+    "img": "./img/catalog/watch/GearS3frontier.jpg",
+    "id":"asdfghjkl",
+    "description":"часы-компаньон, поддержка Android/iOS, экран AMOLED 1.3'' (360x360, сенсорный), шагомер, пульсометр, время работы: 3 суток"
+},
+{
+    "title": "Xiaomi Mi Band 1S",
+    "price": 29,
+    "img": "./img/catalog/watch/MiBand1S.jpg",
+    "id":"qazwsxedcm",
+    "description":"фитнес-браслет, поддержка Android/iOS, шагомер, пульсометр"
+}]

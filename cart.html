@@ -1,0 +1,76 @@
+<!-- Copyright ©2020; Все права защищены. Собственность Слуцкого Никиты-->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Электроник. Корзина</title>
+    <link rel="shortcut icon" href="img/logo-noText.svg">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700&display=swap&subset=cyrillic" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/styleForCart.css">
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <a href="index.html"><img src="img/logo.svg" alt="логотип" class="logo"></a>
+            <span class="header__phone"><a href="" class="phone-link">+375 00 000 00 00</a></span>
+        </header>
+    </div>
+    <div class="container">
+        <div class="main__heading">
+            <a href="index.html" class="button backToIndex">Назад на главную</a>
+            <!-- <input type="search" class="input main__search" placeholder="Поиск необходимой техники"> -->
+        </div>
+        <div class="modal__dialog">
+            <div class="modal__header">
+                <h3 class="modal__headline">Корзина</h3>
+            </div>
+            <div class="modal__body" id="modal__body">
+            </div>
+            <div class="modal__footer">
+                <span class="modal__pricetag" id="modal__pricetag">
+                    0
+                </span>
+                <div class="footer__buttons">
+                    <button class="button button-primary" id="confirmPayment">Оформить заказ</button>
+                    <button class="button" id="cancelCart">Очистить корзину</button>
+                </div>
+            </div>
+            <!-- /.modal-footer -->
+        </div>
+    </div>
+    <div class="for-footer">
+        <div class="container">
+            <footer class="footer">
+                <a class="footer__logo" href="index.html">
+                    <img src="img/logo.svg" alt="логотип">
+                </a>
+                <div class="footer__links">
+                    <a href="contact.html" class="footer__link">Контакты</a>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <div class="modalCheckout" id="modalCheckout">
+        <div class="modalCheckout__dialog" id="modalCheckout__dialog">
+            <div class="modalCheckout__header">
+                <h3 class="modalCheckout__header-title">Оформить заказ</h3>
+                <button class="closeCheckout" id="closeCheckout">&times;</button>
+            </div>
+            <div class="modalCheckout__body">
+                <form class="formCheckout form" id="formCheckout">
+                    <div class="form-block"><label class="inputName">Ваш телефон ?</label><input type="text" required class="input"></div>
+                    <div class="form-block"><label class="inputName">Ваше имя ?</label><input type="text" required class="input"></div>
+                    <div class="form-block"><label class="inputName">Комментарий к заказу</label><textarea required class="input"></textarea></div>
+                    <input type="submit" class="button" value="Отправить">
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="js/cart.js"></script>
+</body>
+
+</html>

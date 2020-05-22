@@ -1,0 +1,64 @@
+[
+{
+    "title": "Apple iMac 27",
+    "price": 6047,
+    "img": "./img/catalog/monoblock/imac27.jpeg",
+    "id":"r67u67b",
+    "description":"27'' 5120 x 2880, глянцевый, Intel Core i5 7500 3400 МГц, 8 ГБ, Fusion Drive 1000 ГБ, граф. адаптер: AMD Radeon Pro 570 4 ГБ, Mac OS, цвет серебристый"
+},
+{
+    "title": "Apple iMac Pro",
+    "price": 16800,
+    "img": "./img/catalog/monoblock/imacPro.jpg",
+    "id":"3536534654",
+    "description":"27'' 5120 x 2880, глянцевый 3200 МГц, 32 ГБ, SSD 1024 ГБ, Mac OS, цвет темно-серый"
+},
+{
+    "title": "Acer Aspire C22-820",
+    "price": 833,
+    "img": "./img/catalog/monoblock/aspireC22.jpg",
+    "id":"e56yb6v",
+    "description":"21.5'' 1920 x 1080, матовый, Intel Celeron J4005 2000 МГц, 4 ГБ, SSD 128 ГБ, граф. адаптер: встроенный, Linux, цвет серебристый"
+},
+{
+    "title": "ASUS Zen AiO",
+    "price": 1130,
+    "img": "./img/catalog/monoblock/aio.jpg",
+    "id":"q234tv54",
+    "description":"23.8'' 1920 x 1080, матовый, Intel Core i7 8750H 2200 МГц, 32 ГБ, HDD 1000 ГБ + SSD 512 ГБ, граф. адаптер: NVIDIA GeForce GTX 1050 4 ГБ, Windows 10, цвет черный"
+},
+{
+    "title": "HP Pavilion 24",
+    "price": 1725,
+    "img": "./img/catalog/monoblock/pavilion24.jpg",
+    "id":"236g",
+    "description":"23.8'' 1920 x 1080, глянцевый, Intel Core i3 8100T 3100 МГц, 8 ГБ, HDD 1000 ГБ + Intel Optane 16 ГБ, граф. адаптер: NVIDIA GeForce GTX 1050 4 ГБ, Windows 10, цвет белый/серебристый"
+},
+{
+    "title": "HP EliteOne 1000 G2",
+    "price": 6642,
+    "img": "./img/catalog/monoblock/EliteOne1000.jpg",
+    "id":"q3twvwww",
+    "description":"27'' 3840 x 2160, матовый, Intel Core i7 8700 3200 МГц, 16 ГБ, SSD 256 ГБ, граф. адаптер: встроенный, Windows 10 Pro, цвет черный"
+},
+{
+    "title": "Dell Inspiron 22",
+    "price": 1527,
+    "img": "./img/catalog/monoblock/inspiron22.jpg",
+    "id":"ergtwb45",
+    "description":"21.5'' 1920 x 1080, матовый, Intel Core i3 8145U 2100 МГц, 4 ГБ, HDD 1000 ГБ, граф. адаптер: встроенный, Windows 10, цвет черный"
+},
+{
+    "title": "HP ProOne 600 G4",
+    "price": 1513,
+    "img": "./img/catalog/monoblock/ProOne600G4.jpg",
+    "id":"11223344",
+    "description":"21.5'' 1920 x 1080, матовый, Intel Core i7 8700 3200 МГц, 8 ГБ, HDD 1000 ГБ, граф. адаптер: встроенный, DVD, Windows 10 Pro, цвет черный"
+},
+{
+    "title": "Acer Aspire C27-865",
+    "price": 1905,
+    "img": "./img/catalog/monoblock/aspireC27.jpeg",
+    "id":"q43tv5qtdtyt",
+    "description":"27'' 1920 x 1080, матовый, Intel Core i5 8250U 1600 МГц, 8 ГБ, HDD 1000 ГБ + SSD 128 ГБ, граф. адаптер: встроенный, Windows 10, цвет серебристый/черный"
+}]

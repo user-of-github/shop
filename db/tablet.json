@@ -1,0 +1,22 @@
+[{
+    "title": "Планшет Apple iPad Pro 11",
+    "price": 2450,
+    "img": "./img/catalog/tablet/ipad11pro2020.jpg",
+    "id":"56745ebspppp",
+    "description":"11'' IPS (2388x1668), iPadOS, Apple A12Z Bionic, ОЗУ 6 ГБ, флэш-память 128 ГБ, цвет серый"
+},
+{
+    "title": "Samsung Galaxy Tab S6 10.5",
+    "price": 1711,
+    "img": "./img/catalog/tablet/galaxyTabS6.jpg",
+    "id":"aaaaaaaccc",
+    "description":"10.5'' AMOLED (2560x1600), Android, Qualcomm SDM855, ОЗУ 6 ГБ, флэш-память 128 ГБ, LTE, цвет золотистый"
+},
+{
+    "title": "Huawei MatePad Pro 10.8",
+    "price": 1600,
+    "img": "./img/catalog/tablet/MatePadPro.jpg",
+    "id":"iiiitttt",
+    "description":"10.8'' IPS (2560x1600), Android, Hisilicon Kirin 990, ОЗУ 6 ГБ, флэш-память 128 ГБ, цвет темно-синий"
+}
+]

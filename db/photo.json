@@ -1,0 +1,71 @@
+[
+{
+    "title": "Canon EOS 6D Body",
+    "price": 2540,
+    "img": "./img/catalog/photo/CanonEOS6DBody.jpg",
+    "id":"jlmom",
+    "description":"зеркальная камера, матрица Full frame 20.2 Мп, без объектива (body), Wi-Fi"
+},
+{
+    "title": "Sony a7 III Body",
+    "price": 4950,
+    "img": "./img/catalog/photo/SonyA7IIIBody.jpg",
+    "id":"ghukuygun",
+    "description":"беззеркальная камера, матрица Full frame 24.2 Мп, без объектива (body), Wi-Fi"
+},
+{
+    "title": "Sony Alpha a6000 Kit",
+    "price": 1300,
+    "img": "./img/catalog/photo/SonyAlphaA6000Kit.jpg",
+    "id":"rdhyjm",
+    "description":"беззеркальная камера, матрица APS-C (1.5 crop) 24.3 Мп, с объективом F3.5-5.6 16-50 мм, Wi-Fi"
+},
+{
+    "title": "Fujifilm Instax Mini 9",
+    "price": 185,
+    "img": "./img/catalog/photo/FujifilmInstaxMini9.jpg",
+    "id":"743852ji",
+    "description":"камера для мгновенной печати F12.7 60 мм"
+},
+{
+    "title": "Fujifilm Instax Square SQ6",
+    "price": 364,
+    "img": "./img/catalog/photo/FujifilmInstaxSquareSQ6.jpg",
+    "id":"67unjk",
+    "description":"камера для мгновенной печати F12.6 65.75 мм"
+},
+{
+    "title": "Sony Cyber-shot DSC-RX100",
+    "price": 990,
+    "img": "./img/catalog/photo/SonyCyber-shotDSC-RX100.jpg",
+    "id":"5b54n6nnn",
+    "description":"компакт-камера, матрица 1'' 20.2 Мп, объектив 3.6X F1.8-4.9 28-100 мм"
+},
+{
+    "title": "Fujifilm GFX100 Body",
+    "price": 26399,
+    "img": "./img/catalog/photo/FujifilmGFX100Body.jpg",
+    "id":"we4rv4xxx",
+    "description":"среднеформатная зеркальная камера, матрица Medium format 102 Мп, Wi-Fi"
+},
+{
+    "title": "Leica Q",
+    "price": 9639,
+    "img": "./img/catalog/photo/LeicaQ.jpg",
+    "id":"r67987l",
+    "description":"компакт-камера, матрица Full frame 24.2 Мп, с объективом F1.7 28 мм, Wi-Fi"
+},
+{
+    "title": "Canon EOS R Body",
+    "price": 4580,
+    "img": "../img/catalog/photo/CanonEOSRBody.jpg",
+    "id":"e56j76jjj",
+    "description":"беззеркальная камера, матрица Full frame 30.3 Мп, без объектива (body), Wi-Fi"
+},
+{
+    "title": "Olympus OM-D E-M10 Mark II",
+    "price": 1099,
+    "img": "../img/catalog/photo/OlympusOM-DE-M10MarkIIKit.jpg",
+    "id":"ryh6h66666",
+    "description":"беззеркальная камера, матрица Four Thirds 4/3 16.1 Мп, с объективом F3.5-5.6 14-42 мм, Wi-Fi"
+}]

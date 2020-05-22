@@ -1,0 +1,64 @@
+[
+{
+    "title": "Thomson T32RTL6000",
+    "price": 480,
+    "img": "./img/catalog/television/T32RTL6000.jpg",
+    "id":"tytytytt",
+    "description":"32'' 1366x768 (HD), матрица VA, частота матрицы 50 Гц, индекс динамичных сцен 100, Smart TV (Android TV), Wi-Fi"
+},
+{
+    "title": "Xiaomi MI TV 4S 43",
+    "price": 897,
+    "img": "./img/catalog/television/MiTv4s.jpg",
+    "id":"wete4te4rr",
+    "description":"43'' 3840x2160 (4K UHD), матрица IPS, частота матрицы 50 Гц, Smart TV (Android TV), HDR, Wi-Fi"
+},
+{
+    "title": "Samsung T24H390SIX",
+    "price": 526,
+    "img": "./img/catalog/television/T24H390SIX.jpg",
+    "id":"rsgrbbt",
+    "description":"24'' 1920x1080 (Full HD), частота матрицы 50 Гц, Smart TV (Samsung Tizen), Wi-Fi"
+},
+{
+    "title": "LG OLED55B9PLA",
+    "price": 3599,
+    "img": "./img/catalog/television/OLED55B9PLA.jpg",
+    "id":"456newqab",
+    "description":"55'' 3840x2160 (4K UHD), матрица OLED, частота матрицы 100 Гц, Smart TV (LG webOS), HDR, Wi-Fi"
+},
+{
+    "title": "Samsung UE24N4500AU",
+    "price": 472,
+    "img": "./img/catalog/television/UE24N4500AU.jpg",
+    "id":"be5ts",
+    "description":"24'' 1366x768 (HD READY), частота матрицы 50 Гц, индекс динамичных сцен 400, Smart TV (Samsung Tizen), Wi-Fi"
+},
+{
+    "title": "Samsung UE50TU8000U",
+    "price": 1423,
+    "img": "./img/catalog/television/UE50TU8000U.jpg",
+    "id":"lolwf4w",
+    "description":"50'' 3840x2160 (4K UHD), матрица VA, частота матрицы 50 Гц, индекс динамичных сцен 2100, Smart TV (Samsung Tizen), HDR, Wi-Fi"
+},
+{
+    "title": "Samsung UE43RU7200U",
+    "price": 999,
+    "img": "./img/catalog/television/UE43RU7200U.jpg",
+    "id":"q3453w4",
+    "description":"43'' 3840x2160 (4K UHD), матрица VA, частота матрицы 50 Гц, индекс динамичных сцен 1400, Smart TV (Samsung Tizen), HDR, Wi-Fi"
+},
+{
+    "title": "Samsung QE98Q900RBU",
+    "price": 128870,
+    "img": "./img/catalog/television/QE98Q900RBU.jpg",
+    "id":"b1234890tne6u",
+    "description":"98'' 7680x4320 (8K UHD), матрица VA, частота матрицы 100 Гц, индекс динамичных сцен 4300, Smart TV (Samsung Tizen), HDR, Wi-Fi"
+},
+{
+    "title": "Samsung QE65Q950TSU",
+    "price": 17890,
+    "img": "./img/catalog/television/QE65Q950TSU.jpg",
+    "id":"123123123f",
+    "description":"65'' 7680x4320 (8K UHD), матрица VA, частота матрицы 100 Гц, индекс динамичных сцен 4700, Smart TV (Samsung Tizen), HDR, Wi-Fi"
+}]
